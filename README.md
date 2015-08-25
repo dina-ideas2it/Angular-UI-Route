@@ -1,5 +1,3 @@
 # Demonstration of AngularUI Router
 
-Code and demo for the scotch.io tutorial
-
-[AngularJS Routing Using UI-Router](http://scotch.io/tutorials/javascript/angular-routing-using-ui-router)
+[AngularJS Routing Using UI-Router](https://github.com/dina-ideas2it/Angular-UI-Route)
